@@ -1,0 +1,14 @@
+/*
+Definí nuevamente la función medallaSegunPuesto, pero esta vez usando como máximo un único if. 
+*/
+
+
+let medallas=["oro","plata","bronce"]
+
+function medallaSegunPuesto(puesto){
+  if (puesto===1 || puesto===2 || puesto===3){
+    return medallas[puesto-=1];
+  } else {
+    return "nada";
+  }
+}
