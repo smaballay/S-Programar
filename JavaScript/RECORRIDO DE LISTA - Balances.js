@@ -1,6 +1,6 @@
 /* 
 Ana quiere saber la ganancia promedio de los balances positivos.
-Definí las funciones:
+Define las funciones:
 cantidadDeBalancesPositivos
 gananciaPositiva, que es la suma de las ganancias de los balances positivos
 promedioGananciasPositivas invocando gananciaPositiva y cantidadDeBalancesPositivos.

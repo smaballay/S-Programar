@@ -1,5 +1,5 @@
 /*
-Definí nuevamente la función medallaSegunPuesto, pero esta vez usando como máximo un único if. 
+Define nuevamente la funcion medallaSegunPuesto, pero esta vez usando como maximo un unico if. 
 */
 
 

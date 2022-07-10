@@ -1,5 +1,5 @@
 /*
-El jurado de un torneo nos pidió la función medallaSegunPuesto que retorne la medalla que le corresponde a los primeros puestos, según la siguiente lógica:
+El jurado de un torneo nos pidio la funcion medallaSegunPuesto que retorne la medalla que le corresponde a los primeros puestos, segun la siguiente logica:
 Primer puesto: le corresponde "oro"
 Segundo puesto: le corresponde "plata"
 Tercer puesto: le corresponde "bronce"

@@ -1,5 +1,5 @@
 /*
-Definí las siguientes funciones:
+Define las siguientes funciones:
 meses, la cual dada una lista con registros devuelve una lista de meses ;
 afortunados, que filtra aquellos registros que tuvieron una ganancia mayor a $1000 ;
 mesesAfortunados, devuelve aquellos meses que fueron afortunados.
